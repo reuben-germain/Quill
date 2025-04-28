@@ -179,11 +179,13 @@ ul {
 /* CTA SECTION */
 
 .cta-section {
-    text-align: center;
+    
 }
 
 .cta-card {
+    text-align: center;
     background-color: #339af0;
+    width: 1000px;
 }
 
 /* FOOTER SECTION */
