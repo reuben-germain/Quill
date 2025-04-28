@@ -134,6 +134,22 @@ ul {
     background-color: #7048e8;
 }
 
+.highlight {
+    color: #ffffff;
+}
+
+.highlight-primary {
+    background-color: #339af0;
+}
+
+.highlight-secondary {
+    background-color: #9775fa;
+}
+
+.highlight-tertiary {
+    background-color: #ff922b;
+}
+
 /* ---------- SECTIONS ---------- */
 
 /* HERO SECTION */
