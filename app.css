@@ -172,6 +172,10 @@ ul {
     text-align: center;
 }
 
+.feature-img {
+    width: 400px;
+}
+
 /* CTA SECTION */
 
 .cta-section {
