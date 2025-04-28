@@ -115,12 +115,14 @@ ul {
 .btn-primary:visited {
     color: #ffffff;
     background-color: #339af0;
+    border: 2px solid #339af0;
 }
 
 .btn-primary:hover,
 .btn-primary:active {
     color: #ffffff;
     background-color: #1c7ed6;
+    border: 2px solid #1c7ed6;
 }
 
 .btn-primary-outline:link, .btn-primary-outline:visited {
@@ -138,12 +140,14 @@ ul {
 .btn-secondary:visited {
     color: #ffffff;
     background-color: #9775fa;
+    border: 2px solid #9775fa;
 }
 
 .btn-secondary:hover,
 .btn-secondary:active {
     color: #ffffff;
     background-color: #7048e8;
+    border: 2px solid #7048e8;
 }
 
 .highlight {
