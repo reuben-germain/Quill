@@ -212,8 +212,13 @@ ul {
 
 /* FEATURES SECTION */
 
+.features-section {
+    margin-bottom: 300px;
+}
+
 .features-main-heading {
     text-align: center;
+    margin-bottom: 80px;
 }
 
 .feature-img {
