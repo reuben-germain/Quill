@@ -227,6 +227,10 @@ ul {
 
 /* CTA SECTION */
 
+.cta-section {
+    margin-bottom: 300px;
+}
+
 .cta-card {
     text-align: center;
     background-color: #339af0;
