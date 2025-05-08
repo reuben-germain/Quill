@@ -203,37 +203,37 @@ ul {
 
 /* NAVBAR */
 .navbar {
-    margin-bottom: 200px;
+    margin-bottom: 20rem;
 }
 
 /* HERO SECTION */
 
 .hero-section {
     text-align: center;
-    margin-bottom: 300px;
+    margin-bottom: 30rem;
 }
 
 .hero-heading {
-    margin-bottom: 10px;
+    margin-bottom: 1rem;
 }
 
 .hero-paragraph {
-    margin-bottom: 50px;
+    margin-bottom: 5rem;
 }
 
 /* FEATURES SECTION */
 
 .features-section {
-    margin-bottom: 300px;
+    margin-bottom: 30rem;
 }
 
 .features-main-heading {
     text-align: center;
-    margin-bottom: 80px;
+    margin-bottom: 8rem;
 }
 
 .feature-headings {
-    margin-bottom: 20px;
+    margin-bottom: 2rem;
 }
 
 .feature-img {
@@ -244,20 +244,20 @@ ul {
 /* CTA SECTION */
 
 .cta-section {
-    margin-bottom: 300px;
+    margin-bottom: 30rem;
 }
 
 .cta-card {
     text-align: center;
     background-color: #339af0;
     max-width: 1000px;
-    padding: 100px 200px;
+    padding: 10rem 20rem;
     border-radius: 20px;
     margin: 0 auto;
 }
 
 .cta-heading {
-    margin-bottom: 30px;
+    margin-bottom: 3rem;
 }
 
 /* FOOTER SECTION */
