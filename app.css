@@ -203,6 +203,7 @@ ul {
 /* HEADER SECTION */
 .header-section {
     height: 100vh;
+    min-height: 800px;
 }
 
 /* NAVBAR SECTION */
