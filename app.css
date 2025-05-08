@@ -59,6 +59,10 @@ Black: #000000 (Black)
     padding: 0;
 }
 
+html {
+    font-size: 62.5%;
+}
+
 body {
     font-family: 'Poppins', sans-serif;
     font-weight: 400;
