@@ -127,10 +127,9 @@ ul {
 /* ---------- COMPONENTS ---------- */
 
 .btn {
-    font-weight: 400;
-    font-size: 16px;
+    font-size: 1.6rem;
     text-decoration: none;
-    padding: 15px 30px;
+    padding: 1.5rem 3rem;
     border-radius: 8px;
 }
 
@@ -175,7 +174,7 @@ ul {
 
 .highlight {
     color: #ffffff;
-    padding: 5px 10px;
+    padding: 0.5rem 1rem;
     border-radius: 4px;
 }
 
