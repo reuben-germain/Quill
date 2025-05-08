@@ -88,32 +88,32 @@ h5 {
 }
 
 h1 {
-    font-size: 62px;
+    font-size: 6.2rem;
 }
 
 h2 {
-    font-size: 48px;
+    font-size: 4.8rem;
 }
 
 h3 {
-    font-size: 40px;
+    font-size: 4rem;
 }
 
 h4 {
-    font-size: 32px;
+    font-size: 3.2rem;
 }
 
 h5 {
-    font-size: 24px;
+    font-size: 2.4rem;
 }
 
 p {
-    font-size: 20px;
+    font-size: 2rem;
 }
 
 a {
     text-decoration: none;
-    font-size: 16px;
+    font-size: 1.6rem;
 }
 
 ul {
@@ -121,7 +121,7 @@ ul {
 }
 
 .small-text {
-    font-size: 12px;
+    font-size: 1.2rem;
 }
 
 /* ---------- COMPONENTS ---------- */
