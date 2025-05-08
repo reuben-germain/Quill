@@ -53,6 +53,49 @@ Black: #000000 (Black)
 
 /* ---------- GLOBAL STYLES ---------- */
 
+:root {
+    /* FONT SIZE */
+    --text-sm: 1.2rem; /* 12px */
+    --text-base: 1.6rem; /* 16px */
+    --text-paragraph: 2rem; /* 20px */
+    --text-h5: 2.4rem; /* 24px */
+    --text-h4: 3.2rem; /* 32px */
+    --text-h3: 4rem; /* 40px */
+    --text-h2: 4.8rem; /* 48px */
+    --text-h1: 6.2rem; /* 62px */
+    
+    /* FONT WEIGHT */
+    --font-weight-normal: 400;
+    --font-weight-bold: 700;
+
+    /* LINE HEIGHT */
+    --line-height-tight: 1.2;
+    --line-height-normal: 1.5;
+
+    /* LETTER SPACING */
+    --letter-spacing-tight: -2px;
+
+    /* FONT FAMILY */
+    --font-family: 'Poppins', sans-serif;
+
+    /* COLORS */
+
+    --primary-base: #339af0;
+    --primary-tint: #d0ebff;
+    --primary-shade: #1c7ed6;
+    --secondary-base: #9775fa;
+    --secondary-tint: #e5dbff;
+    --secondary-shade: #7048e8;
+    --tertiary-base: #ff922b;
+    --tertiary-tint: #ffe8cc;
+    --tertiary-shade: #f76707;
+    --grey-base: #495057;
+    --grey-tint: #f1f3f5;
+    --grey-shade: #212529;
+    --white: #ffffff;
+    --black: #000000;
+}
+
 * {
     box-sizing: border-box;
     margin: 0;
