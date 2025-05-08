@@ -94,6 +94,10 @@ Black: #000000 (Black)
     --grey-shade: #212529;
     --white: #ffffff;
     --black: #000000;
+
+/* MISCELLANEOUS */
+
+    --nav-height: 300px;
 }
 
 * {
@@ -245,13 +249,16 @@ ul {
 /* ---------- SECTIONS ---------- */
 
 /* HEADER SECTION */
-.header-section {
+
+/* .header-section {
     height: 100vh;
     min-height: 800px;
-}
+} */
 
 /* NAVBAR SECTION */
+
 .navbar {
+    height: var(--nav-height);
     margin-bottom: 20rem;
 }
 
