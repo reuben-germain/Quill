@@ -248,13 +248,6 @@ ul {
 
 /* ---------- SECTIONS ---------- */
 
-/* HEADER SECTION */
-
-/* .header-section {
-    height: 100vh;
-    min-height: 800px;
-} */
-
 /* NAVBAR SECTION */
 
 .navbar {
@@ -265,6 +258,8 @@ ul {
 /* HERO SECTION */
 
 .hero-section {
+    height: calc(100vh - var(--nav-height));
+    min-height: 800px;
     text-align: center;
     margin-bottom: 30rem;
 }
