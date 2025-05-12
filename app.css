@@ -97,7 +97,7 @@ Black: #000000 (Black)
 
 /* MISCELLANEOUS */
 
-    --nav-height: 300px; /* Update the value with Flexbox later */
+    --nav-height: 100px;
 }
 
 * {
