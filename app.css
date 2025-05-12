@@ -252,6 +252,7 @@ ul {
 
 .navbar {
     height: var(--nav-height);
+    display: flex;
     /* margin-bottom: 20rem; */
 }
 
