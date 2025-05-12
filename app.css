@@ -318,6 +318,7 @@ ul {
 .footer-section {
     text-align: center;
     display: flex;
+    flex-direction: column;
 }
 
 .social-icons {
