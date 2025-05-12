@@ -332,11 +332,11 @@ ul {
     gap: 2rem;
 }
 
+.footer-links-container {
+    display: flex;
+    gap: 2rem;
+}
+
 .social-icons {
     width: 20px;
 }
-
-/* .footer-links-container {
-    display: flex;
-    gap: 5rem;
-} */
