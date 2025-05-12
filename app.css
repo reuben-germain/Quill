@@ -257,6 +257,11 @@ ul {
     align-items: center;
 }
 
+.nav-btn-container {
+    display: flex;
+    gap: 2rem;
+}
+
 /* HERO SECTION */
 
 .hero-section {
