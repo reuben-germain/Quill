@@ -253,6 +253,7 @@ ul {
 .navbar {
     height: var(--nav-height);
     display: flex;
+    justify-content: space-between;
     /* margin-bottom: 20rem; */
 }
 
