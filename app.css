@@ -168,6 +168,10 @@ ul {
     list-style: none;
 }
 
+span {
+    display: inline-block;
+}
+
 .small-text {
     font-size: var(--text-sm);
 }
@@ -221,7 +225,7 @@ ul {
 }
 
 .highlight {
-    color: var(--white);
+    color: var(--white);;
     padding: 0.5rem 1rem;
     border-radius: 4px;
 }
