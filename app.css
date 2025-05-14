@@ -317,6 +317,7 @@ span {
 .cta-section {
     margin-bottom: 30rem;
     display: flex;
+    justify-content: center;
 }
 
 .cta-card {
