@@ -377,3 +377,6 @@ span {
 .social-icons {
     width: 20px;
 }
+.heart-icon{
+    color: var(--secondary-base);
+}
