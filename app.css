@@ -345,6 +345,7 @@ span {
 
 .cta-heading {
     margin-bottom: 3rem;
+    color: var(--white);
 }
 
 /* FOOTER SECTION */
