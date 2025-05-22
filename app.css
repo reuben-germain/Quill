@@ -164,6 +164,13 @@ a {
     display: inline-block;
 }
 
+a:link,
+a:visited,
+a:hover,
+a:active {
+    color: var(--grey-base);
+}
+
 ul {
     list-style: none;
 }
