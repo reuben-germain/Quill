@@ -1,4 +1,4 @@
-/* LG - SMALL LAPTOPS: 1024PX - 1280PX */
+/* LG - SMALL LAPTOPS: 1024px - 1280px */
 
 @media (max-width: 72rem) {
     /* 1150px / 16px = 71.875 */
@@ -18,7 +18,7 @@
     }
 }
 
-/* MD - TABLETS: 768PX - 1024PX */
+/* MD - TABLETS: 768px - 1024px */
 
 @media (max-width: 51rem) {
     /* 815px / 16px = 50.9375 */
@@ -27,5 +27,30 @@
     html{
         font-size: 50%;
         /* 8px / 16px = 50% */
+    }
+}
+
+/* SM - MOBILE LANDSCAPE: 576px - 768px */
+
+@media (max-width: 43rem) {
+    /* 680px / 16px = 42.5rem */
+    /* 43rem / 16px = 688px */
+
+    html {
+        font-size: 43.75%;
+        /* 7px / 16px = 43.75% */
+    }
+
+    .cta-card {
+        padding: 5rem 10rem;
+    }
+
+    .features-section {
+        margin-bottom: 20rem;
+    }
+
+    .features-grid-container {
+        row-gap: 5rem;
+        column-gap: 0.5rem;
     }
 }
