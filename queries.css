@@ -1,0 +1,11 @@
+/* LG - SMALL LAPTOPS: 1024PX - 1280PX */
+
+@MEDIA (max-width: 72rem) {
+    /* 1150px / 16px = 71.875 */
+    /* round off 72 rem x 16px = 1152px */
+
+    html {
+        font-size: 56.25%;
+        /* 9px / 16px = \56.25% */
+    }
+}
