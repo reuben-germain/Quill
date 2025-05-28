@@ -1,6 +1,6 @@
 /* LG - SMALL LAPTOPS: 1024PX - 1280PX */
 
-@MEDIA (max-width: 72rem) {
+@media (max-width: 72rem) {
     /* 1150px / 16px = 71.875 */
     /* round off 72 rem x 16px = 1152px */
 
@@ -15,5 +15,17 @@
 
     .cta-section {
         margin-bottom: 20rem;
+    }
+}
+
+/* MD - TABLETS: 768PX - 1024PX */
+
+@media (max-width: 51rem) {
+    /* 815px / 16px = 50.9375 */
+    /* 51rem / 16px = 816px */
+
+    html{
+        font-size: 50%;
+        /* 8px / 16px = 50% */
     }
 }
