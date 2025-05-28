@@ -265,6 +265,9 @@ span {
     display: flex;
     justify-content: center;
     align-items: center;
+    position: fixed;
+    bottom: 2rem;
+    right: 2rem;
 }
 
 .chat-icon {
