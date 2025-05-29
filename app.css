@@ -278,6 +278,23 @@ span {
     height: 5rem;
 }
 
+.beta {
+    position: relative;
+}
+
+.beta::after {
+    content: "Beta";
+    position: absolute;
+    top: -1rem;
+    right: -1rem;
+    background-color: var(--tertiary-base);
+    color: var(--white);
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
+    font-size: var(--text-sm);
+    transform: translate(50%, -50%);
+}
+
 /* ---------- SECTIONS ---------- */
 
 /* NAVBAR SECTION */
